@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,sCACF,CACA,cACE,wCACF","file":"raidresets.506ddac0.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: Helvetica, Arial, sans-serif;\n}\n.fc-day-today {\n  background: #ffd80094 !important;\n}\n"]}
