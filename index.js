@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var calendar = new Calendar(calendarEl, {
     initialView: 'dayGridMonth',
-    initialDate: '2020-06-07',
     plugins: [dayGridPlugin, rrulePlugin],
     headerToolbar: {
       left: 'prev,next today',
