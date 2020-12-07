@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
       },
       {
-        title: 'Sunwell, Naxx, Ony',
+        title: 'Sunwell, Onyxia',
         allDay: true,
         duration: { days: 5 },
         color: '#ff8000',
@@ -65,6 +65,17 @@ document.addEventListener('DOMContentLoaded', function () {
           freq: 'daily',
           interval: 5,
           dtstart: '2020-06-26',
+        },
+      },
+      {
+        title: 'Naxxramas',
+        allDay: true,
+        duration: { days: 5 },
+        color: '#3f5658',
+        rrule: {
+          freq: 'daily',
+          interval: 5,
+          dtstart: '2020-11-26',
         },
       },
     ],
