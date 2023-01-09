@@ -22,7 +22,7 @@
     "@fullcalendar/core": "^5.0.0",
     "@fullcalendar/daygrid": "^5.0.1",
     "@fullcalendar/rrule": "^5.0.0",
-    "rrule": "^2.6.4"
+    "rrule": "^2.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
